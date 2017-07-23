@@ -1,6 +1,6 @@
 # React Express Template
 
-A template for a full website project using react at frontend and express at backend.
+A template for a full website project using [React](https://facebook.github.io/react/) at frontend and [Express](https://expressjs.com/) at backend.
 
 What is the difference?
 - Super simple.
