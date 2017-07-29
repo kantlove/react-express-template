@@ -1,0 +1,11 @@
+$font-stack:    Helvetica, sans-serif;
+$primary-color: #fff;
+
+body {
+  background: #555;
+}
+
+.heading {
+  font: 100% $font-stack;
+  color: $primary-color;
+}

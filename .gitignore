@@ -10,9 +10,7 @@ yarn-error.log*
 
 # Compiled files
 build
-
-# Bundled files
-public/js
+public/scripts
 
 # Dependency directories
 node_modules/
@@ -22,3 +20,6 @@ node_modules/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# Cache
+.sass-cache

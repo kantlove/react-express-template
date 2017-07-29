@@ -1,6 +1,4 @@
 {
-  // to transform jsx to js
   "plugins": ["transform-react-jsx"],
-  // the standard is ES2015
   "presets": ["es2015"]
 }

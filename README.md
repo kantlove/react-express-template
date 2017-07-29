@@ -1,10 +1,13 @@
-# React Express Template
+# Responsive Landing Page
 
-A template for a full website project using [React](https://facebook.github.io/react/) at frontend and [Express](https://expressjs.com/) at backend.
+To start the server, run this command:
+```bash
+yarn install
+# or npm install
+npm start
+```
 
-What is the difference?
-- Super simple.
-- Has explainations.
-- No random packages installed for some "secret" reasons.
-
-Inspired by [Universal React Helloworld](https://github.com/vlucas/universal-react-helloworld)
+To enable auto build for develoption:
+```bash
+npm run watch
+```
